@@ -1,0 +1,9 @@
+2024/05/09 14:40:32 Connection accepted <-  127.0.0.1:49581
+2024/05/09 14:40:59 Connection accepted <-  127.0.0.1:55429
+2024/05/09 14:50:26 Connection accepted <-  127.0.0.1:41023
+2024/05/09 14:53:55 Connection accepted <-  127.0.0.1:60369
+2024/05/09 14:54:25 Error reading from stream:  timeout: no recent network activity
+2024/05/09 14:55:06 Connection accepted <-  127.0.0.1:33791
+2024/05/09 14:55:36 Error reading from stream:  timeout: no recent network activity
+2024/05/09 14:56:38 Connection accepted <-  127.0.0.1:53582
+2024/05/09 14:56:38 Stream opened

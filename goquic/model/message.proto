@@ -1,0 +1,9 @@
+syntax = "proto3";
+
+import "google/protobuf/any.proto";
+option go_package = "goquic/model";
+
+message Message {
+    int32 action = 1;
+    map<string, google.protobuf.Any> data = 2;
+}
